@@ -39,3 +39,17 @@ h1 {
 .back-button:hover {
 	background-color: #3E8E41;
 }
+@media only screen and (max-width:768px){
+	.description{
+		font-size: 50%;
+	}
+	.muñeco-image{
+		width: 50%;
+	}
+	.price{
+		font-size: 50%;
+	}
+	h1{
+		font-size: 50%;
+	}
+}
